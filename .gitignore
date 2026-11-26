@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.parquet
+!app/assets/*.parquet
+*.csv
+.DS_Store
